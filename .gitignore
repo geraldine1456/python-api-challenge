@@ -1,0 +1,5 @@
+# Adding config.py file.
+.venv/
+__pycache__/
+*.log
+api_keys.py
